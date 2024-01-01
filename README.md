@@ -19,15 +19,15 @@ It uses OpenCV for image processing, NumPy for numerical operations, and NDIlib 
 
 ## Setup
 
-1. Install the required dependencies:
+Install the required dependencies:
    ```
    pip install -r requirements.txt
    ```
-2a. Run the script with default resolution of 80 columns and 24 rows:
+Run the script with default resolution of 80 columns and 24 rows:
    ```
    python ASCIITerm.py
    ```
-2b. Run the script with a custom column and row resolution:
+Run the script with a custom column and row resolution:
    ```
    python ASCIITerm.py 100 30
 
