@@ -23,20 +23,24 @@ It uses OpenCV for image processing, NumPy for numerical operations, and NDIlib 
 ## Setup
 
 1. Install [NDI Tools](https://ndi.video/tools/) - this lets you pipe video around your system/network:
+   
 ```
 https://ndi.video/tools/
 ```
 
-3. Clone this repo to your computer:
+2. Clone this repo to your computer:
+   
 ```
 git clone https://github.com/mitchaiet/ASCIITerm.git
 ```
 
-5. Install the required dependencies:
+3. Install the required dependencies:
+   
 ```
 pip install -r requirements.txt
 ```
-6. Run the script:
+4. Run the script:
+   
 ```
 python3 ASCIITerm.py
 ```
@@ -50,15 +54,20 @@ python3 ASCIITerm.py 100 30
 
 ## Usage
 
-1. Create a new NDI Video Source. You can use the NDI Tools Scan Converter to select a window, like a video player, and render it to a new NDI Video Source.
-2. Run the script with either the default (80x24) or custom resolution.
+1. Create a new NDI Video Source. You can use the [NDI Tools Scan Converter](https://ndi.video/tools/ndi-scan-converter/) to select a window, like a video player, and render it to a new NDI Video Source.
+   
+3. Run the script with either the default (80x24) or custom resolution.
+   
 ```
 python3 ASCIITerm.py
 ```
+
 ```
 python3 ASCIITerm.py 100 30
 ```
+
 3. You will see the main source selection screen. Select a video spurce by typing a number:
+   
 ```
                                                                                              
               _    ____   ____ ___ ___ _____                   
