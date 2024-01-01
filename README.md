@@ -27,12 +27,15 @@ It uses OpenCV for image processing, NumPy for numerical operations, and NDIlib 
    ```
 
 3. Clone this repo to your computer
+   ```
+   git clone https://github.com/mitchaiet/ASCIITerm.git
+   ```
 
-4. Install the required dependencies:
+5. Install the required dependencies:
    ```
    pip install -r requirements.txt
    ```
-5. Run the script:
+6. Run the script:
    ```
    python ASCIITerm.py
    ```
