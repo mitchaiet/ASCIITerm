@@ -35,6 +35,7 @@ It uses OpenCV for image processing, NumPy for numerical operations, and NDIlib 
    ```
 
 ASCIITerm defaults to a resolution of 80 columns, 24 rows.
+
 Run the script with a custom column and row resolution to match your needs:
    ```
    python ASCIITerm.py 100 30
