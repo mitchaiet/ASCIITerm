@@ -37,7 +37,7 @@ git clone https://github.com/mitchaiet/ASCIITerm.git
 3. Install the required dependencies:
    
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 4. Run the script:
    
