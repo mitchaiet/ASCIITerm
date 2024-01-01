@@ -44,6 +44,7 @@ pip install -r requirements.txt
 ```
 python3 ASCIITerm.py
 ```
+## Settings
 
 ASCIITerm defaults to a resolution of 80 columns, 24 rows.
 
