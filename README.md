@@ -22,14 +22,17 @@ It uses OpenCV for image processing, NumPy for numerical operations, and NDIlib 
 ## Setup
 
 1. Install [NDI Tools](https://ndi.video/tools/) - this lets you pipe video around your system/network
+   ```
+   https://ndi.video/tools/
+   ```
 
-2. Clone this repo to your computer
+3. Clone this repo to your computer
 
-3. Install the required dependencies:
+4. Install the required dependencies:
    ```
    pip install -r requirements.txt
    ```
-4. Run the script:
+5. Run the script:
    ```
    python ASCIITerm.py
    ```
