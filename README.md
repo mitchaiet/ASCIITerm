@@ -17,6 +17,7 @@ https://www.youtube.com/watch?v=xQTr9ZOJkC0
 It uses OpenCV for image processing, NumPy for numerical operations, and NDIlib for network device interface capabilities.
 
 ## Setup
+
 1. Install the required dependencies:
    ```
    pip install -r requirements.txt
