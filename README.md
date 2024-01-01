@@ -52,5 +52,22 @@ Run the script with a custom column and row resolution to match your needs:
 
 1. Create a new NDI Video Source. You can use the NDI Tools Scan Converter to select a window, like a video player, and render it to a new NDI Video Source.
 2. Run the script with either the default (80x24) or custom resolution.
-3. 
+3. You will see the
+```
+                                                                                             
+              _    ____   ____ ___ ___ _____                   
+             / \  / ___| / ___|_ _|_ _|_   _|__ _ __ _ __ ___  
+            / _ \ \___ \| |    | | | |  | |/ _ | '__| '_ ` _ \ 
+           / ___ \ ___) | |___ | | | |  | |  __| |  | | | | | |
+          /_/   \_|____/ \____|___|___| |_|\___|_|  |_| |_| |_|
+                                                               
+               ASCIITerm - NDI Viewer for Terminal Windows                                                                   
+             
+         Looking for sources...
+         Available NDI sources:
+         1: MACBOOK-PRO-8.LAN (NDI Virtual Input)
+         2: MACBOOK-PRO-8.LAN (Scan Converter)
+         Select a source (by number):
+   ```
+
 
