@@ -21,6 +21,10 @@ It uses OpenCV for image processing, NumPy for numerical operations, and NDIlib 
 
 ## Setup
 
+Install [NDI Tools](https://ndi.video/tools/) - this lets you pipe video around your system/network
+
+[https://ndi.video/tools/](https://ndi.video/tools/)
+
 Install the required dependencies:
    ```
    pip install -r requirements.txt
