@@ -11,8 +11,9 @@ Display NDI Video as ASCII Output in Terminal
 
 This allows you to watch any movie or other recording in full, text-based glory.
 
-This is designed to provide a "graphics" driver to old serial terminals, inspired by this project:
-https://www.youtube.com/watch?v=xQTr9ZOJkC0
+This is designed to provide a "graphics" driver to old serial terminals. 
+
+Inspired by [Modern Linux on a Wyse Terminal](https://www.youtube.com/watch?v=xQTr9ZOJkC0)
 
 It uses OpenCV for image processing, NumPy for numerical operations, and NDIlib for network device interface capabilities.
 
