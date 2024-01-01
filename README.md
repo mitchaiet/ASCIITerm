@@ -7,17 +7,29 @@
 Display NDI Video as ASCII Output in Terminal
 
 ## Description
-`ASCIITerm.py` is a Python script for converting video frames to ASCII art. It uses OpenCV for image processing, NumPy for numerical operations, and NDIlib for network device interface capabilities.
+`ASCIITerm.py` is a Python script for rendering video frames as ASCII art live in Terminal. 
+
+This allows you to watch any movie or other recording in full, text-based glory.
+
+This is designed to provide a "graphics" driver to old serial terminals, inspired by this project:
+https://www.youtube.com/watch?v=xQTr9ZOJkC0
+
+It uses OpenCV for image processing, NumPy for numerical operations, and NDIlib for network device interface capabilities.
 
 ## Setup
 1. Install the required dependencies:
    ```
    pip install -r requirements.txt
    ```
-2. Run the script:
+2a. Run the script with default resolution of 80 columns and 24 rows:
    ```
    python ASCIITerm.py
    ```
+2b. Run the script with a custom column and row resolution:
+   ```
+   python ASCIITerm.py 100 30
+
+   ```
 
 ## Usage
-This script converts video frames to ASCII art. It can be customized in terms of resolution and other parameters within the script.
+
