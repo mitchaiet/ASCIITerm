@@ -4,7 +4,7 @@
       / ___ \ ___) | |___ | | | |  | |  __| |  | | | | | |
      /_/   \_|____/ \____|___|___| |_|\___|_|  |_| |_| |_|
          ASCIITerm - NDI Viewer for Terminal Windows  
-Display NDI Video as ASCII Output in Terminal
+# Display NDI Video as ASCII Output in Terminal
 
 ![ASCIITerm Screenshot](/ASCIITermHeader.png)
 
