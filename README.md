@@ -27,10 +27,11 @@ Run the script with default resolution of 80 columns and 24 rows:
    ```
    python ASCIITerm.py
    ```
+<or> 
+         
 Run the script with a custom column and row resolution:
    ```
    python ASCIITerm.py 100 30
-
    ```
 
 ## Usage
