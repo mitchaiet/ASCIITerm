@@ -29,7 +29,7 @@ It uses OpenCV for image processing, NumPy for numerical operations, and NDIlib 
    ```
    pip install -r requirements.txt
    ```
-4a. Run the script with default resolution of 80 columns and 24 rows:
+4. Run the script:
    ```
    python ASCIITerm.py
    ```
