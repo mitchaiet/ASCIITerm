@@ -3,7 +3,7 @@
        / _ \ \___ \| |    | | | |  | |/ _ | '__| '_ ` _ \ 
       / ___ \ ___) | |___ | | | |  | |  __| |  | | | | | |
      /_/   \_|____/ \____|___|___| |_|\___|_|  |_| |_| |_|
-         ASCIITerm - NDI Viewer for Terminal Windows  
+              ASCIITerm - NDI Viewer for Terminals  
 
 ![ASCIITerm Screenshot](/ASCIITermHeader.png)
 
