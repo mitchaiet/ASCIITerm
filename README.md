@@ -23,13 +23,6 @@ It uses OpenCV for image processing, NumPy for numerical operations, and NDIlib 
 
 Install [NDI Tools](https://ndi.video/tools/) - this lets you pipe video around your system/network
 
-
-
-Install the required dependencies:
-   ```
-   [https://ndi.video/tools/](https://ndi.video/tools/)
-   ```
-
 Install the required dependencies:
    ```
    pip install -r requirements.txt
@@ -38,8 +31,7 @@ Run the script with default resolution of 80 columns and 24 rows:
    ```
    python ASCIITerm.py
    ```
-<or> 
-         
+*or*         
 Run the script with a custom column and row resolution:
    ```
    python ASCIITerm.py 100 30
