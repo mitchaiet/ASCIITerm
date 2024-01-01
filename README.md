@@ -22,12 +22,12 @@ It uses OpenCV for image processing, NumPy for numerical operations, and NDIlib 
 
 ## Setup
 
-1. Install [NDI Tools](https://ndi.video/tools/) - this lets you pipe video around your system/network
+1. Install [NDI Tools](https://ndi.video/tools/) - this lets you pipe video around your system/network:
    ```
    https://ndi.video/tools/
    ```
 
-3. Clone this repo to your computer
+3. Clone this repo to your computer:
    ```
    git clone https://github.com/mitchaiet/ASCIITerm.git
    ```
@@ -52,6 +52,12 @@ Run the script with a custom column and row resolution to match your needs:
 
 1. Create a new NDI Video Source. You can use the NDI Tools Scan Converter to select a window, like a video player, and render it to a new NDI Video Source.
 2. Run the script with either the default (80x24) or custom resolution.
+   ```
+   python ASCIITerm.py
+   ```
+   ```
+   python ASCIITerm.py 100 30
+   ```
 3. You will see the main source selection screen. Select a video spurce by typing a number:
 ```
                                                                                              
