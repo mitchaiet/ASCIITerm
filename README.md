@@ -6,7 +6,7 @@
          ASCIITerm - NDI Viewer for Terminal Windows  
 Display NDI Video as ASCII Output in Terminal
 
-![ASCIITerm Screenshot](ASCIItermHeader.png)
+![ASCIITerm Screenshot](/ASCIITermHeader.png)
 
 ## Description
 `ASCIITerm.py` is a Python script for rendering video frames as ASCII art live in Terminal. 
