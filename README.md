@@ -50,3 +50,7 @@ Run the script with a custom column and row resolution to match your needs:
 
 ## Usage
 
+1. Create a new NDI Video Source. You can use the NDI Tools Scan Converter to select a window, like a video player, and render it to a new NDI Video Source.
+2. Run the script with either the default (80x24) or custom resolution.
+3. 
+
