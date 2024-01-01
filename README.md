@@ -67,7 +67,7 @@ or
 python3 ASCIITerm.py 100 30
 ```
 
-3. You will see the main source selection screen. Select a video spurce by typing a number:
+3. You will see the main source selection screen. Select a video source by typing a number:
    
 ```
                                                                                              
