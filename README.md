@@ -62,7 +62,7 @@ python3 ASCIITerm.py 100 30
 ```
 python3 ASCIITerm.py
 ```
-
+- or -
 ```
 python3 ASCIITerm.py 100 30
 ```
