@@ -46,7 +46,7 @@ python3 ASCIITerm.py
 ```
 ## Settings
 
-ASCIITerm defaults to a resolution of 80 columns, 24 rows.
+ASCIITerm defaults to a resolution of 80 columns, 26 rows.
 
 Run the script with a custom column and row resolution to match your needs:
 ```
