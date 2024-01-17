@@ -22,7 +22,7 @@ def frame_to_ascii(frame, cols=80, rows=24):
         ascii_art += "\n"
     return ascii_art
 
-def main(cols=80, rows=24):
+def main(cols=80, rows=26):
     ascii_logo = """                                                                                    
      _    ____   ____ ___ ___ _____                   
     / \  / ___| / ___|_ _|_ _|_   _|__ _ __ _ __ ___  
